@@ -3,14 +3,30 @@
      🎨 Multicolor Edition — Enhanced Layout & Animations
      ============================================================ -->
 
-<!-- ══════════════ TOP VENOM BANNER ══════════════ -->
+<!-- ══════════════ TOP ANIMATED WAVING BANNER ══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:FF6B6B,20:FF8E53,40:FFC93C,60:6FCB9F,80:74B9FF,100:A29BFE&text=Nandini%20Verma&fontSize=68&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20AI%20Explorer&descSize=20&descAlignY=60&descColor=ffffffee"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF0080,20:FF6B6B,40:FFC93C,60:00E5FF,80:7B2FBE,100:FF0080&text=Nandini%20Verma&fontSize=75&fontAlignY=40&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2&desc=✦%20Frontend%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20AI%20Explorer%20✦&descSize=19&descAlignY=60&descColor=ffffffee"/>
 </p>
+
+<!-- ══════════════ ANIMATED WAVE DIVIDER STRIP ══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF0080,25:FFC93C,50:00E5FF,75:7B2FBE,100:FF0080&animation=fadeIn"/>
+</p>
+
+<!-- ══════════════ ANIMATED SPARKLE HEADER ══════════════ -->
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</p>
+
 
 <!-- ══════════════ ANIMATED TYPING SVG ══════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=FF6B6B&center=true&vCenter=true&multiline=false&width=900&lines=🎓+Computer+Science+(AI)+Student;🌐+Frontend+%26+Full+Stack+Developer;🐍+Python+Developer;⚛+React+%26+Next.js+Explorer;🤖+Artificial+Intelligence+Enthusiast;🎨+UI%2FUX+Craftsperson;🚀+Open+Source+Learner;✨+Always+Building+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=950&height=60&lines=🎓+CSE+(Artificial+Intelligence)+Student;🌐+Frontend+%26+Full+Stack+Developer;🐍+Python+Developer+%7C+AI+Builder;⚛+React+%26+Next.js+Explorer;🤖+Artificial+Intelligence+Enthusiast;🎨+UI%2FUX+Craftsperson+%26+Designer;🚀+Open+Source+Contributor;🌟+Always+Learning+Something+New!"/>
+</p>
+
+<!-- ══════════════ ANIMATED RAINBOW DIVIDER ══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,25:7B2FBE,50:FF0080,75:FFC93C,100:00E5FF&animation=fadeIn"/>
 </p>
 
 <!-- ══════════════ SOCIAL BADGES ROW ══════════════ -->
@@ -96,10 +112,26 @@ motto      : "Learn • Build • Innovate • Inspire ✨"
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandini2809&theme=radical&no-frame=true&margin-w=8&row=1"/>
+  <img src="https://img.shields.io/badge/🎓_B.Tech_CSE_(AI)-Pursuing-FF0080?style=for-the-badge&labelColor=1a1a2e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💻_Web_Developer-Active-FFC93C?style=for-the-badge&labelColor=1a1a2e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🤖_AI_Explorer-Learning-00E5FF?style=for-the-badge&labelColor=1a1a2e"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚛_React_&_Next.js-Building-7B2FBE?style=for-the-badge&labelColor=1a1a2e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🐍_Python_Developer-Active-6FCB9F?style=for-the-badge&labelColor=1a1a2e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀_Open_Source-Contributing-FF6B6B?style=for-the-badge&labelColor=1a1a2e"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌟_GitHub_Trophies-Unlocking_Soon...-74B9FF?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 ---
@@ -156,12 +188,46 @@ motto      : "Learn • Build • Innovate • Inspire ✨"
 
 ---
 
-<!-- ══════════════ FOOTER SHARK ══════════════ -->
+## 📫 Let's Connect!
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&section=footer&color=0:A29BFE,20:74B9FF,40:6FCB9F,60:FFC93C,80:FF8E53,100:FF6B6B&fontColor=ffffff"/>
+  <a href="https://github.com/nandini2809">
+    <img src="https://img.shields.io/badge/🐙_GitHub-nandini2809-FF0080?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+  </a>&nbsp;
+  <a href="mailto:nandini.verma2809@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Gmail-nandini.verma2809-FFC93C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+  </a>
 </p>
 
-<h3 align="center">
-  💜 Designed & Built with ❤️ by <strong>Nandini Verma</strong><br/>
-  🌸 <em>Learn &nbsp;•&nbsp; Build &nbsp;•&nbsp; Innovate &nbsp;•&nbsp; Inspire</em> 🌸
-</h3>
+---
+
+<!-- ══════════════ FOOTER ANIMATION SECTION ══════════════ -->
+
+<!-- Animated Rainbow Divider -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FF0080,20:FF6B6B,40:FFC93C,60:00E5FF,80:7B2FBE,100:FF0080&animation=twinkling"/>
+</p>
+
+<!-- Animated Farewell Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=900&height=50&lines=Thanks+for+visiting+my+profile!+🌸;Feel+free+to+explore+my+repositories!+🚀;Let's+connect+and+build+together!+💜;Star+%E2%AD%90+repos+you+find+useful!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Inspiring+✨"/>
+</p>
+
+<!-- Animated GIF Sparkle -->
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="animated sparkle"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70" alt="animated cat coding"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" alt="animated sparkle"/>
+</p>
+
+<!-- Animated Reverse Rainbow Divider -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:7B2FBE,25:00E5FF,50:FFC93C,75:FF6B6B,100:FF0080&animation=twinkling"/>
+</p>
+
+<!-- Footer Waving Banner -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:FF0080,20:FF6B6B,40:FFC93C,60:00E5FF,80:7B2FBE,100:FF0080&text=Learn%20•%20Build%20•%20Innovate%20•%20Inspire&fontSize=28&fontAlignY=55&fontColor=ffffffee&animation=twinkling&desc=💜%20Nandini%20Verma%20%7C%20nandini2809&descSize=16&descAlignY=75&descColor=ffffff99"/>
+</p>
